@@ -6,6 +6,7 @@ class HelloWorld
 
     {
         Console.WriteLine("Hello World!");
+        Console.WriteLine("Hello India");
     }
         static void Main(string[] args)
         {
